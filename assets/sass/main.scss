@@ -1,5 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600&display=swap");
+
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
+}
+body {
+	padding: 10px;
+	font-family: "Cormorant SC", sans-serif;
+}
+input {
+	border: 1px solid #00acff;
+	width: 100%;
+	height: 30px;
+	padding: 10px;
+	margin-bottom: 5px;
+	border-radius: 10px;
+}
+button {
+	background-color: #00acff;
+	color: snow;
+	font-weight: bolder;
+	border: none;
+	border-radius: 6px;
+	padding: 10px 20px;
 }
