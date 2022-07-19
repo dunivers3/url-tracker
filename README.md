@@ -20,7 +20,7 @@
 
 🏠 [Homepage](https//github.com/dunivers3/url-tracker#readme)
 
-<img src="./assets/img/tracker.jpg" style="width: auto; height: 500px" alt ="file">
+<img src="https://images.unsplash.com/photo-1569230919100-d3fd5e1132f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=736&q=80" style="width: auto; height: 500px" alt ="file">
 
 ### How it's made:
 
