@@ -36,12 +36,13 @@
 ## Lessons learnt:
 
 > -   Security aware clients' priority is to be safe while working with browsers. This project creates confidence and increasese security side of the client, saving their priority leads localy in their local machines, and not entirely depending on browser sync.
+> -   “Computer science inverts the normal. In normal science, you're given a world, and your job is to find out the rules. In computer science, you give the computer the rules, and it creates the world.” — Alan Kay, Developer, Computer Scientist, and Father of Object-Oriented Programming
 
 ## Author
 
 👤 **Duncan**
 
--   Website: www.duniverseinc.com
+-   Website: www.duniverse.me
 -   Twitter: [@\_duniverse](https://twitter.com/_duniverse)
 -   Github: [@dunivers3](https://github.com/dunivers3)
 -   LinkedIn: [@duniverse](https://linkedin.com/in/duniverse)
