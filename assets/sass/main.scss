@@ -46,6 +46,10 @@ button {
 	}
 }
 
+.border_el{
+	border: 1px solid #2F3E53;
+	margin-top: 5px;
+}
 .buttons {
 	display: flex;
 	justify-content: space-around;
@@ -53,6 +57,7 @@ button {
 }
 a {
 	color: var(--color-other);
+	text-decoration: none;
 }
 
 ul {

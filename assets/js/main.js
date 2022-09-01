@@ -28,6 +28,7 @@ function renderTracked(data) {
                 <a target="_blank" href="${element}">
                 ${element}
                 </a>
+                <div class="border_el"></div>
             </li>`
     })
     ulEl.innerHTML = items

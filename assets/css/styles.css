@@ -41,13 +41,18 @@ button {
   button#deleteBtn {
     background-color: var(--color-fav-bright); }
 
+.border_el {
+  border: 1px solid #2F3E53;
+  margin-top: 5px; }
+
 .buttons {
   display: flex;
   justify-content: space-around;
   align-items: center; }
 
 a {
-  color: var(--color-other); }
+  color: var(--color-other);
+  text-decoration: none; }
 
 ul {
   padding: 0; }
